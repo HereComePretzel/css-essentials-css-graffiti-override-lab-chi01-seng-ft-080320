@@ -6,6 +6,10 @@
   display: none;
 }
 
+#wall .slick_wicked {
+  display: none;
+}
+
 #wall .tag-4{
   display: none;
 }
