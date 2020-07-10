@@ -17,3 +17,8 @@
 #wall .parent #tag-5.slick {
   display: none;
 }
+
+#wal .parent last-child #tag-6 {
+  display: none;
+}
+
